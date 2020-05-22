@@ -1,6 +1,6 @@
 # Digital-Cash
 
-Digital Cash Implementation Author - Bhushan Hiwase
+Digital Cash System Author - Bhushan Hiwase
 
 Submitted for class project, Network security, SJSU Instructed by Prof Dr. Gokay Saldamli.
 
