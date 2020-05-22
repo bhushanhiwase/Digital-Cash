@@ -1,0 +1,1 @@
+After creating the Database, run the file Bank.py to activate Bank server page.
