@@ -1,0 +1,1 @@
+Run the file Merchant.py to activate Merchant server page and carry the transaction.
