@@ -1,0 +1,1 @@
+Run the file bankMerchant.py to activate BankMerchant server page and start the transaction.
