@@ -1,0 +1,1 @@
+Run the file Customer.py to activate Customer page and start the transaction from the customer side.
