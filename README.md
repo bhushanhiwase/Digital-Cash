@@ -1,4 +1,4 @@
-# Digital-Cash
+# Implementation of Digital-Cash using python
 
 Digital Cash System Author - Bhushan Hiwase
 
