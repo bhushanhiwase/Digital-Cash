@@ -33,8 +33,6 @@ def checkAuthencity(custId, moneyOrderNum, Amount):
     connection.send("Customer has followed the Correct Steps, Signing the MoneyOrder")
     print "Deducting an Amount of '%s' from '%s' Account"  %(Amount, cusId[0])
 
-    #else:
-       # print "There is a mistake in the MoneyOrder, Kindly Reprocess them."
 
 if __name__ == '__main__':
     print "Bank Server Website"
