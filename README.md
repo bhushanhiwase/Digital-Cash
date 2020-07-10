@@ -6,7 +6,7 @@ Submitted for class project, Network security, SJSU Instructed by Prof Dr. Gokay
 
 The Code Invloves the Protocols such as Secret Splitting Bit Commitment RSA Encryption Blind Signature Protocol
 
-Language: Python2.7 (3.x compatible with minor changes)
+Language: Python (3.x compatible with minor changes)
 
 Dependencies: BitVector, random, pycrypto, socket, hashlib
 
