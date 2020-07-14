@@ -10,7 +10,7 @@ Language: Python (3.x compatible with minor changes)
 
 Dependencies: BitVector, random, pycrypto, socket, hashlib
 
-Pre requistes:- Ubuntu 16.04 --> Install mysql,bitvector. Using : apt-get install python-mysqldb, pip install BitVector without this there would be import error.
+Pre requistes:- Ubuntu 16.04 -> Install mysql,bitvector. Using : apt-get install python-mysqldb, pip install BitVector without this there would be import error.
 
 Steps to run: Then run python Bank.py first then python customer.py following with bankMerchant.py and last Merchant.py.
 
