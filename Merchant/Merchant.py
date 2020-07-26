@@ -78,4 +78,3 @@ if __name__ == '__main__':
         if(flag):
             depositMoneyOrder(moneyOrder, custId)
 
-        #print receive
