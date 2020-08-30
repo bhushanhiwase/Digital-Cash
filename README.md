@@ -16,4 +16,4 @@ Steps to run: Then run python Bank.py first then python customer.py following wi
 
 After everthing runs the transaction starts from Customer.py to enter the order ID from the testdatabase we have from Query.data .
 
-Once Transaction is about to be done Merchant.py Bank Signature is verified and money gets deposited to the account.
+Once Transaction is about to be done Merchant.py Bank Signature is verified and money gets deposited to the account
